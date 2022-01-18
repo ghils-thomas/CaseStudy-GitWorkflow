@@ -4,3 +4,4 @@ Dev2 first commit version 1.2 file
 
 FeatureB first commit version 1.2.1 file
 
+FeatureB second commit version 1.2.2 file
